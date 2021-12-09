@@ -1,0 +1,1 @@
+-l"C:/ti/tivaware_c_series_2_1_4_178/driverlib/ccs/Debug/driverlib.lib" "./Assignment_2.obj" "./startup_ccs.obj" "./uartstdio.obj" "./ustdlib.obj" "../blinky_ccs.cmd" -llibc.a 
